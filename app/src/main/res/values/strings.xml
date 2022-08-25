@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CollapsingToolbar</string>
+    <string name="go_yoonjung">Go Yoonjung</string>
+    <string name="_06_09_20">06/09/20</string>
+    <string name="shortstory">Once upon a time there was a little girl who wanted a puppy. She asked her mother if they could go to the puppy shop and get one cute little ball of fur. She said to her mother, “Maa, I want a dog.” With a kind smile, the mother caressed the pigtails of her daughter and queried, “Why?” “Because I love dogs!”, said the little girl who was now brimming with anticipation. “You wouldn’t believe”, the mother said “but there are people who love dogs so much that they never buy them.” “They don’t buy dogs then how come they are dog lovers?” asked the curious little girl. The mother smiled and said, “They adopt them.”</string>
+    <string name="adoption">Adoption</string>
+    <string name="owner">owner</string>
+    <string name="fab_anchor">appbar</string>
+</resources>
